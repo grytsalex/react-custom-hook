@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "clipboard": "^2.0.6",
+    "date-fns": "^2.16.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
@@ -22,6 +24,7 @@
     "@babel/preset-env": "^7.9.6",
     "@babel/preset-react": "^7.9.4",
     "babel-loader": "^8.1.0",
+    "bem-cn": "^3.0.1",
     "css-loader": "^3.5.3",
     "less-loader": "^6.1.0",
     "style-loader": "^1.2.1",
