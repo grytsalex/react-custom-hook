@@ -1,9 +1,9 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const Button = styled.button`
   width: 100px;
   height: 50px;
-  background: ${props => props.isEnd ? 'green' : 'red'};
+  background: ${(props) => (props.isEnd ? "green" : "red")};
   border-radius: 15px;
   border: 2px solid black;
   color: #fff;
