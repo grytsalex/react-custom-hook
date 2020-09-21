@@ -23,15 +23,6 @@ yarn run start
 yarn run test
 ```
 
-## Author
-
-👤 **Aleksandr Hrytsenko**
-
-* Website: https://www.facebook.com/grytsalex
-* Twitter: [@alkatras0704](https://twitter.com/alkatras0704)
-* Github: [@grytsalex](https://github.com/grytsalex)
-* LinkedIn: [@aleksandrgrytsenko1996](https://linkedin.com/in/aleksandrgrytsenko1996)
-
 ## Libs:
 <ul><li>date-fns</li></ul>
 
